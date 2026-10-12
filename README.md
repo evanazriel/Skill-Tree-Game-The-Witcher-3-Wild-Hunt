@@ -15,8 +15,7 @@ Mata kuliah Matematika Diskrit diampu oleh : Andri Rahadyan S.Pd., M.Si
 Repositori ini berisi pemodelan matematis dan implementasi program untuk menganalisis sistem Skill Tree pada game The Witcher 3: Wild Hunt. Dalam game ini, pembukaan suatu kemampuan (skill) memerlukan prasyarat kemampuan sebelumnya serta investasi poin tertentu. Proyek ini memetakan mekanisme tersebut menggunakan konsep Matematika Diskrit—khususnya Teori Himpunan, Relasi Biner, Graf Berarah (Directed Graph), Urutan Parsial (Partial Order), dan Transitive Closure.
 
 ## Konsep yang Diterapkan 
-1. A. Himpunan Objek ($A$): Kumpulan skill utama (Muscle Memory, Precise Blows, Resolve, Active Shield, Metabolism    Control, Acquired Tolerance).
-   B. Himpunan Kategori ($B$): Kumpulan skill utama (Combat, Signs, Alchemy, General).
+1. A. Himpunan Objek ($A$): Kumpulan skill utama (Muscle Memory, Precise Blows, Resolve, Active Shield, Metabolism    Control, Acquired Tolerance).\n B. Himpunan Kategori ($B$): Kumpulan skill utama (Combat, Signs, Alchemy, General).
 
 2. Relasi Biner ($R$): Hubungan prasyarat (prerequisite) antar-skill (makna: "Skill $A$ harus dibuka sebelum Skill $B$").
 
