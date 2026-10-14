@@ -31,6 +31,7 @@ Repositori ini berisi pemodelan matematis dan implementasi program untuk mengana
 1. Python 
 2. NumPy
 3. NetworkX
+4. Matplotlib
 
 ## Requirements
 - Python Version 3.14.1 or newer
